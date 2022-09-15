@@ -10,14 +10,14 @@ Até breve!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSouza-Data&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Jupyter" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />          
+  <img align="center" alt="Bruno-Jupyter" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />         
   <img align="center" alt="Bruno-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />     
   <img align="center" alt="Bruno-VS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Bruno-Ana" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />  
   <img align="center" alt="Bruno-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Bruno-NUmpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />             
-<div>
-
+  <img align="center" alt="Bruno-NUmpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp">
+  
 ##
 
 <div>
