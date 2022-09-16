@@ -16,7 +16,10 @@ Até breve!
   <img align="center" alt="Bruno-Ana" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />  
   <img align="center" alt="Bruno-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Bruno-NUmpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="right" alt="Bruno-Mario" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp">
+  <img align="center" alt="Bruno-TF" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt="Bruno-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Bruno-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="right" alt="Bruno-Mario" height="200" style="border-radius:50px;" src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp">
   
 ##
 
