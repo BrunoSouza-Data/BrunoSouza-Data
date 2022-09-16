@@ -9,7 +9,7 @@ Até breve!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSouza-Data&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSouza-Data&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>  
   <img align="center" alt="Bruno-Jupyter" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />         
   <img align="center" alt="Bruno-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />     
   <img align="center" alt="Bruno-VS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -17,9 +17,11 @@ Até breve!
   <img align="center" alt="Bruno-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Bruno-NUmpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img align="center" alt="Bruno-TF" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" alt="Bruno-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Bruno-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="right" alt="Bruno-Mario" height="200" style="border-radius:50px;" src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp">
+  <img align="center" img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="40"/>
+  <img align="center" img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>
+  <img align="center" img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  <img align="right" alt="Bruno-Mario" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp">
   
 ##
 
