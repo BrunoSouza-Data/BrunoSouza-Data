@@ -1,5 +1,5 @@
 ### Olá, bem-vindo ao meu GitHub!👋
-#### Eu sou o Bruno Souza. Sou técnico em Mecatrônica e estou graduando em Engenharia de Software. Tenho 12 anos de trabalho na área industrial de óleo e gás, como Senior Designer of Piping e mais 8 anos como técnico em informática, atuando como help desk. Sempre tento me reinventar e conheci a área de Dados. Me identifiquei e desde então busco me aprimorar como Data Science.
+#### Eu sou o Bruno Souza. Sou técnico em Mecatrônica e estou graduando em Engenharia de Software. Tenho 13 anos de trabalho na área industrial de óleo e gás, como Senior Designer of Piping e mais 8 anos como técnico em informática, atuando como help desk. Sempre tento me reinventar e conheci a área de Dados. Me identifiquei e desde então busco me aprimorar como Data Science.
 Aqui vão estar alguns dos meus projetos de estudo com ênfase no aprimoramento das tecnologias mais utilizadas.
 Fique à vontade para comentar, a intenção é para que sirva como estudo e aprendizado.
 Até breve!
